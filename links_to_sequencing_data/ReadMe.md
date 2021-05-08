@@ -9,12 +9,12 @@ Links to individual samples are provided below for convenience.
 | 1 | 1.7kbp | Control before | EIMock_2kbp_NoEnrichRAD_050121 | [ERR5897838](https://www.ebi.ac.uk/ena/data/view/ERR5897838) |
 | 1 | 1.7kbp | Enrich Ax | EIMock_2kbp_AxylosoxidansRAD_050121 | [ERR5897839](https://www.ebi.ac.uk/ena/data/view/ERR5897839) |
 | 1 | 1.7kbp | Enrich Mm | EIMock_2kbp_MmorganiiRAD_050121 | [ERR5897840](https://www.ebi.ac.uk/ena/data/view/ERR5897840) |
-| 1 | 1.7kbp | Enrich Lr | EIMock_2kbp_LrichardiiRAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 1 | 1.7kbp | Enrich Mw | EIMock_2kbp_MwisconsensisRAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 1 | 1.7kbp | Enrich Pa | EIMock_2kbp_PaeroginosaiRAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 1 | 1.7kbp | Enrich Pv | EIMock_2kbp_PvulgarisRAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 1 | 1.7kbp | Enrich Sd | EIMock_2kbp_SdysgalactiaeRAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 1 | 1.7kbp | Control after | EIMock_2kbp_NoEnrich2RAD_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERR210504) |
+| 1 | 1.7kbp | Enrich Lr | EIMock_2kbp_LrichardiiRAD_050121 | [ERR5898676](https://www.ebi.ac.uk/ena/data/view/ERR5898676) |
+| 1 | 1.7kbp | Enrich Mw | EIMock_2kbp_MwisconsensisRAD_050121 | [ERR5898678](https://www.ebi.ac.uk/ena/data/view/ERR5898678) |
+| 1 | 1.7kbp | Enrich Pa | EIMock_2kbp_PaeroginosaiRAD_050121 | [ERR5898679](https://www.ebi.ac.uk/ena/data/view/ERR5898679) |
+| 1 | 1.7kbp | Enrich Pv | EIMock_2kbp_PvulgarisRAD_050121 | [ERR5898680](https://www.ebi.ac.uk/ena/data/view/ERR5898680) |
+| 1 | 1.7kbp | Enrich Sd | EIMock_2kbp_SdysgalactiaeRAD_050121 | [ERR5898682](https://www.ebi.ac.uk/ena/data/view/ERR5898682) |
+| 1 | 1.7kbp | Control after | EIMock_2kbp_NoEnrich2RAD_050121 | [ERR5898684](https://www.ebi.ac.uk/ena/data/view/ERR5898684) |
 | | | | | |
 | 2 | 4.7kbp | Control before | EIMock_6kbp_NoEnrichment_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | 2 | 4.7kbp | Enrich Ax | EIMock_6kbp_AxylosoxidansEnrich_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |

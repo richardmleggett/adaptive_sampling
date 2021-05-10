@@ -16,15 +16,15 @@ Links to individual samples are provided below for convenience.
 | 1 | 1.7kbp | Enrich Sd | EIMock_2kbp_SdysgalactiaeRAD_050121 | [ERR5898682](https://www.ebi.ac.uk/ena/data/view/ERR5898682) |
 | 1 | 1.7kbp | Control after | EIMock_2kbp_NoEnrich2RAD_050121 | [ERR5898684](https://www.ebi.ac.uk/ena/data/view/ERR5898684) |
 | | | | | |
-| 2 | 4.7kbp | Control before | EIMock_6kbp_NoEnrichment_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Ax | EIMock_6kbp_AxylosoxidansEnrich_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Mm | EIMock_6kbp_MmorganiiEnrich_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Lr | EIMock_6kbp_LrichardiiEnrich_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Mw | EIMock_6kbp_Mwisconsensis_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Pa | EIMock_6kbp_Paeroginosa_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Pv | EIMock_6kbp_Pvulgaris_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Enrich Sd | EIMock_6kbp_Sdysgalactiae_04012021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 2 | 4.7kbp | Control after | EIMock_6kbp_control2_050121 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 2 | 4.7kbp | Control before | EIMock_6kbp_NoEnrichment_04012021 | [ERR5903399](https://www.ebi.ac.uk/ena/data/view/ERR5903399) |
+| 2 | 4.7kbp | Enrich Ax | EIMock_6kbp_AxylosoxidansEnrich_04012021 | [ERR5903404](https://www.ebi.ac.uk/ena/data/view/ERR5903404) |
+| 2 | 4.7kbp | Enrich Mm | EIMock_6kbp_MmorganiiEnrich_04012021 | [ERR5903406](https://www.ebi.ac.uk/ena/data/view/ERR5903406) |
+| 2 | 4.7kbp | Enrich Lr | EIMock_6kbp_LrichardiiEnrich_04012021 | [ERR5903407](https://www.ebi.ac.uk/ena/data/view/ERR5903407) |
+| 2 | 4.7kbp | Enrich Mw | EIMock_6kbp_Mwisconsensis_04012021 | [ERR5903409](https://www.ebi.ac.uk/ena/data/view/ERR5903409) |
+| 2 | 4.7kbp | Enrich Pa | EIMock_6kbp_Paeroginosa_04012021 | [ERR5903411](https://www.ebi.ac.uk/ena/data/view/ERR5903411) |
+| 2 | 4.7kbp | Enrich Pv | EIMock_6kbp_Pvulgaris_04012021 | [ERR5903414](https://www.ebi.ac.uk/ena/data/view/ERR5903414) |
+| 2 | 4.7kbp | Enrich Sd | EIMock_6kbp_Sdysgalactiae_04012021 | [ERR5903415](https://www.ebi.ac.uk/ena/data/view/ERR5903415) |
+| 2 | 4.7kbp | Control after | EIMock_6kbp_control2_050121 | [ERR5903417](https://www.ebi.ac.uk/ena/data/view/ERR5903417) |
 | | | | | |
 | 3 | 12.8kbp | Control before | ReadUntilMock_15kbSE_NoEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
 | 3 | 12.8kbp | Enrich Ax | ReadUntilMock_15kbSE_AxEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||

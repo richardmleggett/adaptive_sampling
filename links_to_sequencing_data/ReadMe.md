@@ -26,15 +26,15 @@ Links to individual samples are provided below for convenience.
 | 2 | 4.7kbp | Enrich Sd | EIMock_6kbp_Sdysgalactiae_04012021 | [ERR5903415](https://www.ebi.ac.uk/ena/data/view/ERR5903415) |
 | 2 | 4.7kbp | Control after | EIMock_6kbp_control2_050121 | [ERR5903417](https://www.ebi.ac.uk/ena/data/view/ERR5903417) |
 | | | | | |
-| 3 | 12.8kbp | Control before | ReadUntilMock_15kbSE_NoEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Ax | ReadUntilMock_15kbSE_AxEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Mm | ReadUntilMock_15kbSE_MmEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Lr | ReadUntilMock_15kbSE_LrEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Mw | ReadUntilMock_15kbSE_MwEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Pa | ReadUntilMock_15kbSE_PaEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Pv | ReadUntilMock_15kbSE_PvEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Enrich Sd | ReadUntilMock_15kbSE_SdEnrich_08122020 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
-| 3 | 12.8kbp | Control after | ReadUntilMock_15kbSE_SdEnrich_08122020_2 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) ||
+| 3 | 12.8kbp | Control before | ReadUntilMock_15kbSE_NoEnrich_08122020 | [ERR5909878](https://www.ebi.ac.uk/ena/data/view/ERR5909878) ||
+| 3 | 12.8kbp | Enrich Ax | ReadUntilMock_15kbSE_AxEnrich_08122020 | [ERR5909880](https://www.ebi.ac.uk/ena/data/view/ERR5909880) ||
+| 3 | 12.8kbp | Enrich Mm | ReadUntilMock_15kbSE_MmEnrich_08122020 | [ERR5909882](https://www.ebi.ac.uk/ena/data/view/ERR5909882) ||
+| 3 | 12.8kbp | Enrich Lr | ReadUntilMock_15kbSE_LrEnrich_08122020 | [ERR5909883](https://www.ebi.ac.uk/ena/data/view/ERR5909883) ||
+| 3 | 12.8kbp | Enrich Mw | ReadUntilMock_15kbSE_MwEnrich_08122020 | [ERR5909884](https://www.ebi.ac.uk/ena/data/view/ERR5909884) ||
+| 3 | 12.8kbp | Enrich Pa | ReadUntilMock_15kbSE_PaEnrich_08122020 | [ERR5909885](https://www.ebi.ac.uk/ena/data/view/ERR5909885) ||
+| 3 | 12.8kbp | Enrich Pv | ReadUntilMock_15kbSE_PvEnrich_08122020 | [ERR5909886](https://www.ebi.ac.uk/ena/data/view/ERR5909886) ||
+| 3 | 12.8kbp | Enrich Sd | ReadUntilMock_15kbSE_SdEnrich_08122020 | [ERR5909887](https://www.ebi.ac.uk/ena/data/view/ERR5909887) ||
+| 3 | 12.8kbp | Control after | ReadUntilMock_15kbSE_SdEnrich_08122020_2 | [ERR5909888](https://www.ebi.ac.uk/ena/data/view/ERR5909888) ||
 | | | | | |
 | 4 | 10.6kbp | High-to-Low Control before | ReadUntil_38kbp_HightoLow_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | 4 | 10.6kbp | High-to-Low Enrich Ax | ReadUntil_38kb_HightoLow_AxEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |

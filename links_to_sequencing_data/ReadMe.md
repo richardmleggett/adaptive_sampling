@@ -36,14 +36,14 @@ Links to individual samples are provided below for convenience.
 | 3 | 12.8kbp | Enrich Sd | ReadUntilMock_15kbSE_SdEnrich_08122020 | [ERR5909887](https://www.ebi.ac.uk/ena/data/view/ERR5909887) ||
 | 3 | 12.8kbp | Control after | ReadUntilMock_15kbSE_SdEnrich_08122020_2 | [ERR5909888](https://www.ebi.ac.uk/ena/data/view/ERR5909888) ||
 | | | | | |
-| 4 | 10.6kbp | High-to-Low Control before | ReadUntil_38kbp_HightoLow_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Ax | ReadUntil_38kb_HightoLow_AxEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Mm | ReadUntil_38kbp_HightoLow_Mm_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Lr | ReadUntil_38Kbp_HightoLow_LrEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Mw | ReadUntil_38Kbp_HightoLow_MwEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Pa | ReadUntil_38Kbp_HightoLow_PaEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Pv | ReadUntil_38Kbp_HightoLow_PvEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
-| 4 | 10.6kbp | High-to-Low Enrich Sd | ReadUntil_38Kbp_HightoLow_SdEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 4 | 10.6kbp | High-to-Low Control before | ReadUntil_38kbp_HightoLow_con_15042021 | [ERR5914365](https://www.ebi.ac.uk/ena/data/view/ERR5914365) |
+| 4 | 10.6kbp | High-to-Low Enrich Ax | ReadUntil_38kb_HightoLow_AxEnr_15042021 | [ERR5914366](https://www.ebi.ac.uk/ena/data/view/ERR5914366) |
+| 4 | 10.6kbp | High-to-Low Enrich Mm | ReadUntil_38kbp_HightoLow_Mm_15042021 | [ERR5914368](https://www.ebi.ac.uk/ena/data/view/ERR5914368) |
+| 4 | 10.6kbp | High-to-Low Enrich Lr | ReadUntil_38Kbp_HightoLow_LrEnr_15042021 | [ERR5914369](https://www.ebi.ac.uk/ena/data/view/ERR5914369) |
+| 4 | 10.6kbp | High-to-Low Enrich Mw | ReadUntil_38Kbp_HightoLow_MwEnr_15042021 | [ERR5914370](https://www.ebi.ac.uk/ena/data/view/ERR5914370) |
+| 4 | 10.6kbp | High-to-Low Enrich Pa | ReadUntil_38Kbp_HightoLow_PaEnr_15042021 | [ERR5914372](https://www.ebi.ac.uk/ena/data/view/ERR5914372) |
+| 4 | 10.6kbp | High-to-Low Enrich Pv | ReadUntil_38Kbp_HightoLow_PvEnr_15042021 | [ERR5914373](https://www.ebi.ac.uk/ena/data/view/ERR5914373) |
+| 4 | 10.6kbp | High-to-Low Enrich Sd | ReadUntil_38Kbp_HightoLow_SdEnr_15042021 | [ERR5914374](https://www.ebi.ac.uk/ena/data/view/ERR5914374) |
 | | | | | |
 | 5 | 10.6kbp | Low-to-High Control before | ReadUntil_38kbp_LowtoHigh_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | 5 | 10.6kbp | Low-to-High Enrich Ax | ReadUntil_38Kbp_LowtoHigh_AxEnr_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |

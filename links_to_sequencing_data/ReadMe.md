@@ -54,14 +54,14 @@ Links to individual samples are provided below for convenience.
 | 5 | 10.6kbp | Low-to-High Enrich Pv | ReadUntil_38kb_LowtoHigh_PvEnr_15042021 | [ERR5918381](https://www.ebi.ac.uk/ena/data/view/ERR5918381) |
 | 5 | 10.6kbp | Low-to-High Enrich Sd | ReadUntil_38kbp_LowtoHigh_Sd_15042021 | [ERR5918382](https://www.ebi.ac.uk/ena/data/view/ERR5918382) |
 | | | | | |
-| 6 | 10.6kbp | Sd Enrich Control | ReadUntil_38kbp_Sdenrich_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 6 | 10.6kbp | Sd Enrich Control | ReadUntil_38kbp_Sdenrich_con_15042021 | [ERR5919255](https://www.ebi.ac.uk/ena/data/view/ERR5919255) |
 | 6 | 10.6kbp | Sd Enrich | ReadUntil_38kbp_SdEnrich_Sd_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | | | | | |
-| 7 | 10.6kbp | Mm Enrich Control | ReadUntil_38kbp_Mmenrich_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 7 | 10.6kbp | Mm Enrich Control | ReadUntil_38kbp_Mmenrich_con_15042021 | [ERR5919254](https://www.ebi.ac.uk/ena/data/view/ERR5919254) |
 | 7 | 10.6kbp | Mm Enrich | ReadUntil_38kbp_MmEnrich_Mm_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | | | | | |
-| 8 | 10.6kbp | Mm Deplete Control | ReadUntil_38kbp_MmDeplete_Con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 8 | 10.6kbp | Mm Deplete Control | ReadUntil_38kbp_MmDeplete_Con_15042021 | [ERR5919256](https://www.ebi.ac.uk/ena/data/view/ERR5919256) |
 | 8 | 10.6kbp | Mm Deplete | ReadUntil_38kb_MmDepletion_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | | | | | |
-| 9 | 10.6kbp | MmAxLr Deplete Control | ReadUntil_38kbp_MmAxLrDep_con_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 9 | 10.6kbp | MmAxLr Deplete Control | ReadUntil_38kbp_MmAxLrDep_con_15042021 | [ERR5919257](https://www.ebi.ac.uk/ena/data/view/ERR5919257) |
 | 9 | 10.6kbp | MmAxLr Deplete | ReadUntil_38kb_MmAxLrDepletion_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |

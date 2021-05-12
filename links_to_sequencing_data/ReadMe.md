@@ -58,7 +58,7 @@ Links to individual samples are provided below for convenience.
 | 6 | 10.6kbp | Sd Enrich | ReadUntil_38kbp_SdEnrich_Sd_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
 | | | | | |
 | 7 | 10.6kbp | Mm Enrich Control | ReadUntil_38kbp_Mmenrich_con_15042021 | [ERR5919254](https://www.ebi.ac.uk/ena/data/view/ERR5919254) |
-| 7 | 10.6kbp | Mm Enrich | ReadUntil_38kbp_MmEnrich_Mm_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |
+| 7 | 10.6kbp | Mm Enrich | ReadUntil_38kbp_MmEnrich_Mm_15042021 | [ERR5919570](https://www.ebi.ac.uk/ena/data/view/ERR5919570) |
 | | | | | |
 | 8 | 10.6kbp | Mm Deplete Control | ReadUntil_38kbp_MmDeplete_Con_15042021 | [ERR5919256](https://www.ebi.ac.uk/ena/data/view/ERR5919256) |
 | 8 | 10.6kbp | Mm Deplete | ReadUntil_38kb_MmDepletion_15042021 | [ERRXXXXXX](https://www.ebi.ac.uk/ena/data/view/ERRXXXXXX) |

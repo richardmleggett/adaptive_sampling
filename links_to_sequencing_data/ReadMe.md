@@ -66,5 +66,24 @@ Links to individual samples are provided below for convenience.
 | | | | | |
 | 9 | 10.6kbp | MmAxLr Deplete Control | ReadUntil_38kbp_MmAxLrDep_con_15042021 | [ERR5919257](https://www.ebi.ac.uk/ena/data/view/ERR5919257) |
 | 9 | 10.6kbp | MmAxLr Deplete | ReadUntil_38kb_MmAxLrDepletion_15042021 | [ERR5922338](https://www.ebi.ac.uk/ena/data/view/ERR5922338) |
+| | | | | |
+| 10 | ZGM | Control before | ReadUntil_ZGM_Control_23092021 | [ERR7012817] (https://www.ebi.ac.uk/ena/data/view/ERR7012817) |
+| 10 | ZGM | Ec B1109 Enrich | ReadUntil_ZGM_EcoliEnrich_B1109_23092021 | [ERR7012818] (https://www.ebi.ac.uk/ena/data/view/ERR7012818) |
+| 10 | ZGM | Ec B2207 Enrich | ReadUntil_ZGM_EcoliEnrich_B2207_23092021 | [ERR7012820] (https://www.ebi.ac.uk/ena/data/view/ERR7012820) |
+| 10 | ZGM | Ec B3008 Enrich | ReadUntil_ZGM_EcoliEnrich_B3008_23092021 | [ERR7012821] (https://www.ebi.ac.uk/ena/data/view/ERR7012821) |
+| 10 | ZGM | Ec B766 Enrich | ReadUntil_ZGM_EcoliEnrich_B766_23092021 | [ERR7012827] (https://www.ebi.ac.uk/ena/data/view/ERR7012827) |
+| 10 | ZGM | Ec JM109 Enrich | ReadUntil_ZGM_EcoliEnrich_JM109_23092021 | [ERR7012828] (https://www.ebi.ac.uk/ena/data/view/ERR7012828) |
+| 10 | ZGM | Am Enrich | ReadUntil_ZGM_Enrich_Amuciniphila_230920 | [ERR7012830] (https://www.ebi.ac.uk/ena/data/view/ERR7012830) |
+| 10 | ZGM | Pc Enrich | ReadUntil_ZGM_Enrich_Pcorporis_23092021 | [ERR7012831] (https://www.ebi.ac.uk/ena/data/view/ERR7012831) |
+| 10 | ZGM | Se Enrich | ReadUntil_ZGM_Enrich_Senterica_23092021 | [ERR7012832] (https://www.ebi.ac.uk/ena/data/view/ERR7012832) |
+| | | | | |
+| 11 | Compost 1 | Profling/Assembly - note 2 | ReadUntil_Comp_En_Scoelicolor72h_230921 | [ERR7012850] (https://www.ebi.ac.uk/ena/data/view/ERR7012850) |
+| | | | | |
+| 12 | Compost 2 | Control before | ReadUntil_Hydrogenophaga_con_05102021 | [ERR7012837] (https://www.ebi.ac.uk/ena/data/view/ERR7012837) |
+| 12 | Compost 2 | Assembly enrich | ReadUntil_Hydrogenophaga_Assenr_0510221 | [ERR7012840] (https://www.ebi.ac.uk/ena/data/view/ERR7012840) |
+| 12 | Compost 2 | Reference enrich| ReadUntil_Hydrogenophaga_Refenr_051021 | [ERR7012841] (https://www.ebi.ac.uk/ena/data/view/ERR7012841) |
+| 12 | Compost 2 | Assembly & reference enrich | ReadUntil_Hydrogenophaga_Allenrich_05102 | [ERR7012842] (https://www.ebi.ac.uk/ena/data/view/ERR7012842) |
 
-Note: ENA upload consistently failed for ReadUntil_38kb_MmDepletion_15042021 so it was split into two separate files.
+Note:
+1. ENA upload consistently failed for ReadUntil_38kb_MmDepletion_15042021 so it was split into two separate files.
+2. For profiling compost and metagenome assembly, just the control channels [257-512] from ReadUntil_Comp_En_Scoelicolor72h_230921 were used. Channels 1-256 were used for a speculative attempt to enrich for S. coelicolor, which turned out not to be a member of the community. The upload includes all channels 1-512.
